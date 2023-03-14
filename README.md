@@ -1,1 +1,1 @@
-First stage on high level programming.which is basically python
+This is my first high level programming language 
