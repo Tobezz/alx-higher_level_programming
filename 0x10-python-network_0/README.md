@@ -8,7 +8,7 @@ how to utilize cookies.
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
 
-test [https://github.com/Tobezz/alx-higher_level_programming/blob/master/0x10-python-network_0/README.md] 
+test [test my code] (./101-post_json.sh) checking link 
 
 ## Tasks :page_with_curl:
 
