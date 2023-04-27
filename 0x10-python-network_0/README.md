@@ -8,7 +8,6 @@ how to utilize cookies.
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
 
-test [test my code] (./101-post_json.sh) checking link 
 
 ## Tasks :page_with_curl:
 
